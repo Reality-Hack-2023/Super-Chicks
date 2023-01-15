@@ -108,7 +108,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43ac5eb6305c4a04b321370334ab5a81, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  initialMoveSpeed: 100
+  initialMoveSpeed: 78
   characterController: {fileID: 4682252610716858940}
 --- !u!1 &4682252610774070836
 GameObject:
