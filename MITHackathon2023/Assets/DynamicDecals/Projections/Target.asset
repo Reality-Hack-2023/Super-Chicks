@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68c494ae8ada3604b8b5fe1f38f670be, type: 3}
+  m_Name: Target
+  m_EditorClassIdentifier: 
+  type: 0
+  instanced: 0
+  forceForward: 1
+  priority: 0
+  transparencyType: 0
+  cutoff: 0.1
+  tiling: {x: 0, y: 0}
+  offset: {x: 0, y: 0}
+  maskMethod: 0
+  masks: 00000000
+  projectionLimit: 180
+  _Cutoff: 124
+  _TilingOffset: 1377
+  _MaskBase: 1375
+  _MaskLayers: 1376
+  albedo:
+    texture: {fileID: 2800000, guid: 74f8043b99015804e8ef72aa8fd6dd3e, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    _MainTex: 4
+    _Color: 16
+  specular:
+    texture: {fileID: 0}
+    color: {r: 0, g: 0, b: 0, a: 1}
+    glossiness: 0
+    _SpecGlossMap: 1274
+    _SpecColor: 292
+    _Glossiness: 250
+  normal:
+    texture: {fileID: 0}
+    strength: 1.671
+    _BumpMap: 171
+    _BumpScale: 260
+  emissive:
+    texture: {fileID: 0}
+    color: {r: 1, g: 0, b: 0, a: 1}
+    intensity: 1
+    _EmissionMap: 274
+    _EmissionColor: 96

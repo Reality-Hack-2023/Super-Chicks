@@ -1,0 +1,32 @@
+{
+    "name": "com.mithack.robot",
+    "rootNamespace": "MITHack.Robot",
+    "references": [
+        "GUID:3b8ed52f1b5c64994af4c4e0aa4b6c4b",
+        "GUID:1491147abca9d7d4bb7105af628b223e",
+        "GUID:f1fdb2798a357f04e84ed9d26f6005af",
+        "GUID:10857128242f0ed4996ead64a2dc4b7e",
+        "GUID:caca889fed6088d40b22c2d7e2909c31",
+        "GUID:625bfc588fb96c74696858f2c467e978",
+        "GUID:ba58c43074cf72549aa2ac5937dae44b",
+        "GUID:5db6cbfd5d0e86a46862a70f4b4067f2",
+        "GUID:a55472ce799882545ac971fec9fbc98d",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:8087d854c1f812e4b9a74437dfc524e0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.eflatun.scenereference",
+            "expression": "1.0.0",
+            "define": "EFLATUN_SCENE_REFERENCE"
+        }
+    ],
+    "noEngineReferences": false
+}

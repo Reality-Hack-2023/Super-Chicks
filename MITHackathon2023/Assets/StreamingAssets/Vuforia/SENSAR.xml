@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="QR_Cube.Left" size="0.310000 0.310000"/>
+        <ImageTarget name="QR_Cube.Bottom" size="0.310000 0.310000"/>
+        <ImageTarget name="QR_Cube.Right" size="0.310000 0.309731"/>
+        <ImageTarget name="QR_Cube.Front" size="0.310000 0.310000"/>
+        <ImageTarget name="QR_Cube.Top" size="0.310000 0.310000"/>
+        <ImageTarget name="QR_Cube.Back" size="0.310000 0.310000"/>
+        <ImageTarget name="HZD_Cube.Left" size="0.310000 0.309731"/>
+        <ImageTarget name="HZD_Cube.Bottom" size="0.310000 0.310000"/>
+        <ImageTarget name="HZD_Cube.Right" size="0.310000 0.310000"/>
+        <ImageTarget name="HZD_Cube.Front" size="0.310000 0.309395"/>
+        <ImageTarget name="HZD_Cube.Top" size="0.310000 0.310000"/>
+        <ImageTarget name="HZD_Cube.Back" size="0.310000 0.310000"/>
+        <ImageTarget name="Baymax_Cube.Left" size="0.310000 0.310000"/>
+        <ImageTarget name="Baymax_Cube.Bottom" size="0.310000 0.310000"/>
+        <ImageTarget name="Baymax_Cube.Right" size="0.310000 0.310000"/>
+        <ImageTarget name="Baymax_Cube.Front" size="0.310000 0.310000"/>
+        <ImageTarget name="Baymax_Cube.Top" size="0.310000 0.310000"/>
+        <ImageTarget name="Baymax_Cube.Back" size="0.310000 0.310000"/>
+        <ImageTarget name="Eve_Cube.Left" size="0.310000 0.310000"/>
+        <ImageTarget name="Eve_Cube.Bottom" size="0.310000 0.310000"/>
+        <ImageTarget name="Eve_Cube.Right" size="0.310000 0.310000"/>
+        <ImageTarget name="Eve_Cube.Front" size="0.310000 0.310000"/>
+        <ImageTarget name="Eve_Cube.Top" size="0.310000 0.310000"/>
+        <ImageTarget name="Eve_Cube.Back" size="0.310000 0.310000"/>
+        <ImageTarget name="Space_Cube.Left" size="0.300000 0.300000"/>
+        <ImageTarget name="Space_Cube.Bottom" size="0.300000 0.300000"/>
+        <ImageTarget name="Space_Cube.Right" size="0.300000 0.300000"/>
+        <ImageTarget name="Space_Cube.Front" size="0.300000 0.300000"/>
+        <ImageTarget name="Space_Cube.Top" size="0.300000 0.300000"/>
+        <ImageTarget name="Space_Cube.Back" size="0.300000 0.300000"/>
+        <MultiTarget name="QR_Cube">
+            <Part name="QR_Cube.Left" translation="-0.1550000011920929 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="QR_Cube.Right" translation="0.1550000011920929 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="QR_Cube.Front" translation="0 0 0.1550000011920929" rotation="AD: 1 0 0 0"/>
+            <Part name="QR_Cube.Back" translation="0 0 -0.1550000011920929" rotation="AD: 0 1 0 180"/>
+            <Part name="QR_Cube.Top" translation="0 0.1550000011920929 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="QR_Cube.Bottom" translation="0 -0.1550000011920929 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+        <MultiTarget name="Aloy_Cube">
+            <Part name="HZD_Cube.Left" translation="-0.1550000011920929 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="HZD_Cube.Right" translation="0.1550000011920929 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="HZD_Cube.Front" translation="0 0 0.1550000011920929" rotation="AD: 1 0 0 0"/>
+            <Part name="HZD_Cube.Back" translation="0 0 -0.1550000011920929" rotation="AD: 0 1 0 180"/>
+            <Part name="HZD_Cube.Top" translation="0 0.1550000011920929 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="HZD_Cube.Bottom" translation="0 -0.1550000011920929 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+        <MultiTarget name="Baymax_Cube">
+            <Part name="Baymax_Cube.Left" translation="-0.1550000011920929 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="Baymax_Cube.Right" translation="0.1550000011920929 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="Baymax_Cube.Front" translation="0 0 0.1550000011920929" rotation="AD: 1 0 0 0"/>
+            <Part name="Baymax_Cube.Back" translation="0 0 -0.1550000011920929" rotation="AD: 0 1 0 180"/>
+            <Part name="Baymax_Cube.Top" translation="0 0.1550000011920929 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="Baymax_Cube.Bottom" translation="0 -0.1550000011920929 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+        <MultiTarget name="Eve_Cube">
+            <Part name="Eve_Cube.Left" translation="-0.1550000011920929 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="Eve_Cube.Right" translation="0.1550000011920929 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="Eve_Cube.Front" translation="0 0 0.1550000011920929" rotation="AD: 1 0 0 0"/>
+            <Part name="Eve_Cube.Back" translation="0 0 -0.1550000011920929" rotation="AD: 0 1 0 180"/>
+            <Part name="Eve_Cube.Top" translation="0 0.1550000011920929 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="Eve_Cube.Bottom" translation="0 -0.1550000011920929 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+        <MultiTarget name="Space_Cube">
+            <Part name="Space_Cube.Left" translation="-0.15000000596046448 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="Space_Cube.Right" translation="0.15000000596046448 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="Space_Cube.Front" translation="0 0 0.15000000596046448" rotation="AD: 1 0 0 0"/>
+            <Part name="Space_Cube.Back" translation="0 0 -0.15000000596046448" rotation="AD: 0 1 0 180"/>
+            <Part name="Space_Cube.Top" translation="0 0.15000000596046448 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="Space_Cube.Bottom" translation="0 -0.15000000596046448 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>

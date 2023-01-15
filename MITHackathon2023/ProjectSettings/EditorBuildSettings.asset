@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/MITHackathon2023/Scene/Game_Master.unity
+    guid: b92a568f1a4c18247b7122a4bc942f89
+  - enabled: 0
+    path: Assets/MITHackathon2023/Scene/Environment_Scene.unity
+    guid: b3f4d4376e5556d45910c7a2f94eaec1
+  - enabled: 0
+    path: Assets/Lynx/Samples/HandTracking/0. Base/Scenes/Unity Events.unity
+    guid: 3395c537a16172a47a4c4401163bf848
+  - enabled: 0
+    path: Assets/Lynx/Samples/HandTracking/1. LynxInterface/Scenes/LynxInterfaces.unity
+    guid: 8f9e6a90c8798134f9641a8b0eb075b1
+  - enabled: 0
+    path: Assets/Lynx/Samples/HandTracking/0. Base/Scenes/BaseHandtracking.unity
+    guid: 707bcc4f7c391bc4fb1a517a37c36b97
+  - enabled: 0
+    path: Assets/Lynx/Samples/HandTracking/0. Base/Scenes/XRI Raycast.unity
+    guid: b01ecc09fcac32f45bf2b713f3b729b4
+  - enabled: 1
+    path: Assets/MITHackathon2023/Scene/XRControlScene.unity
+    guid: a2359882dd6b7c0439245b16854ba22e
+  - enabled: 0
+    path: Assets/MITHackathon2023/Scene/XRGameControlScene.unity
+    guid: ab58e67917740db4496b620d449af8e8
+  - enabled: 0
+    path: Assets/MITHackathon2023/Scene/GameUI.unity
+    guid: 6a90a922fec55be42ae50d3c4647ed1b
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f1d9ce10dfda5ae4db41c7e048f7aaa8,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: c0c0caaa39719304ca76006531026f4a,
+      type: 2}
